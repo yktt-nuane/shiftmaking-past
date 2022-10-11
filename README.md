@@ -1,9 +1,9 @@
-# next-boilerplate
+# shiftmaking
 
 <!-- Badges -->
 
-[![Last Commit](https://img.shields.io/github/last-commit/shin-sforzando/next-boilerplate)](https://github.com/shin-sforzando/next-boilerplate/graphs/commit-activity)
-[![CI](https://github.com/shin-sforzando/next-boilerplate/actions/workflows/ci.yml/badge.svg)](https://github.com/shin-sforzando/next-boilerplate/actions/workflows/ci.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/yktt-nuane/shiftmaking)](https://github.com/yktt-nuane/shiftmaking/graphs/commit-activity)
+[![CI](https://github.com/yktt-nuane/shiftmaking/actions/workflows/ci.yml/badge.svg)](https://github.com/yktt-nuane/shiftmaking/actions/workflows/ci.yml)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,42 +15,37 @@
 
 <!-- Synopsis -->
 
-**next-boilerplate** is a template for Next.js.
+**shiftmaking** is a template for Next.js.
 
 ## **Use this template**
 
-- [ ] Replace the string `shin-sforzando` with the actual project owner
-- [ ] Replace the string `next-boilerplate` with the actual project name
-- [ ] Create an issue `#1` for assets
-- [ ] `yarn install` to install dependencies
-- [ ] Check the [repository secrets](https://github.com/shin-sforzando/next-boilerplate/settings/secrets/actions)
-  - [ ] `git secret reveal` to reveal secrets
-  - [ ] Set `CHROMATIC_PROJECT_TOKEN` for Chromatic
+- [ ] Check the [repository secrets](https://github.com/yktt-nuane/shiftmaking/settings/secrets/actions)
 - [ ] Prepare [Vercel](https://vercel.com/)
 - [ ] Prepare [Chromatic](https://www.chromatic.com/) for Storybook
-- [ ] Integrate with Slack: `/github subscribe shin-sforzando/next-boilerplate reviews comments branches commits:*`
+- [ ] Integrate with Slack: `/github subscribe yktt-nuane/shiftmaking reviews comments branches commits:*`
 - [ ] **Delete this section!**
 
 ----
 
 <!-- TOC -->
 
-- [**Use this template**](#use-this-template)
-- [Prerequisites](#prerequisites)
-- [How to](#how-to)
-  - [Setup](#setup)
-    - [Reveal secrets](#reveal-secrets)
-    - [Environment Variables](#environment-variables)
-  - [Develop](#develop)
-  - [Test](#test)
-  - [Storybook](#storybook)
-  - [Document](#document)
-    - [CHANGELOG.md](#changelogmd)
-  - [Deploy](#deploy)
-- [Misc](#misc)
-  - [Notes](#notes)
-  - [LICENSE](#license)
-  - [Contributors](#contributors)
+- [shiftmaking](#shiftmaking)
+  - [**Use this template**](#use-this-template)
+  - [Prerequisites](#prerequisites)
+  - [How to](#how-to)
+    - [Setup](#setup)
+      - [Reveal secrets](#reveal-secrets)
+      - [Environment Variables](#environment-variables)
+    - [Develop](#develop)
+    - [Test](#test)
+    - [Storybook](#storybook)
+    - [Document](#document)
+      - [CHANGELOG.md](#changelogmd)
+    - [Deploy](#deploy)
+  - [Misc](#misc)
+    - [Notes](#notes)
+    - [LICENSE](#license)
+    - [Contributors](#contributors)
 
 ## Prerequisites
 
@@ -165,5 +160,6 @@ This project is licensed under the MIT License, see the [LICENSE](./LICENSE) for
 
 ### Contributors
 
+- [T.Yokoyama](https://github.com/yktt-nuane)
 - [sforzando LLC. and Inc.](https://sforzando.co.jp/)
   - [Shin'ichiro Suzuki](https://github.com/shin-sforzando)
