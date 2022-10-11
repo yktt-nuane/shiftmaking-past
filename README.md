@@ -19,9 +19,6 @@
 
 ## **Use this template**
 
-- [ ] Check the [repository secrets](https://github.com/yktt-nuane/shiftmaking/settings/secrets/actions)
-- [ ] Prepare [Vercel](https://vercel.com/)
-- [ ] Prepare [Chromatic](https://www.chromatic.com/) for Storybook
 - [ ] Integrate with Slack: `/github subscribe yktt-nuane/shiftmaking reviews comments branches commits:*`
 - [ ] **Delete this section!**
 
