@@ -13,21 +13,9 @@
 |:--------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------:|
 |                                      Screenshot 1                                      |                                      Screenshot 2                                      |
 
-<!-- Synopsis -->
-
-**shiftmaking** is a template for Next.js.
-
-## **Use this template**
-
-- [ ] Integrate with Slack: `/github subscribe yktt-nuane/shiftmaking reviews comments branches commits:*`
-- [ ] **Delete this section!**
-
-----
-
 <!-- TOC -->
 
 - [shiftmaking](#shiftmaking)
-  - [**Use this template**](#use-this-template)
   - [Prerequisites](#prerequisites)
   - [How to](#how-to)
     - [Setup](#setup)
